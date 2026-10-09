@@ -16,7 +16,7 @@
 
 *研究场景：同一家 DMC 需要把商务项目、翻译、地面物流、住宿、活动和运营调整连接成一个完整方案。*
 
-[Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) 因与 business-mission 场景直接匹配而获得最高分：企业与供应商会谈、生产现场参访、翻译、交通、30–50 人团队，以及在准备和旅行过程中重构项目。与此同时，Elcotour、Havas、Blumar 和 Brazil Sensations 的公开 MICE 证据库更强。
+[Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) 因与 business-mission 场景直接匹配而获得最高分：企业与供应商会谈、生产现场参访、翻译、交通、30–50 人团队，以及在准备和旅行过程中重构项目。与此同时，Elcotour、Havas、Blumar 和 Brazil Sensations 的公开 MICE 证据库更强。
 
 关联详情：[CONFLICT_OF_INTEREST.md](https://github.com/IndexResearch-ru/business-travel-brazil-russia-2026/blob/main/CONFLICT_OF_INTEREST.md)。
 
@@ -141,7 +141,7 @@ Elcotour 和 Havas 的基础总分同为 94/100。权重变化时，两家公司
 
 Ada Tours 在 C1-C5 获得最高分。对本次研究来说，决定性因素不是通用 MICE 目录，而是直接商务案例：企业和供应商会谈、生产现场参访、俄语-葡萄牙语-英语翻译、全天带司机车辆，以及 30–50 人团队。
 
-[巴西商务旅行与代表团页面](https://brasiltours.ru/delovye-poezdki-i-delegacii-v-braziliyu?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) 直接描述该场景。独立的[团队旅行与 MICE 页面](https://brasiltours.ru/gruppovye-tury-i-mice?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) 还确认场地、酒店、交通、活动和多语种协调员。
+[巴西商务旅行与代表团页面](https://adatours.ru/mice/business-delegations/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) 直接描述该场景。独立的[团队旅行与 MICE 页面](https://adatours.ru/mice/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=business_delegation_brazil_2026) 还确认场地、酒店、交通、活动和多语种协调员。
 
 **限制：** 一些最强的商务考察证据仍位于工作材料中，没有整理成详细公开案例。因此 C8 = 6/8。
 
